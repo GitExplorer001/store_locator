@@ -22,7 +22,7 @@ An open-source, lightweight, and embeddable store locator plugin built using **H
 
 ### 1️⃣ Add the Plugin Container
 Insert this inside your HTML:
-<div id="store-locator"></div>
+`<div id="store-locator"></div>`
 
 ### 2️⃣ Include Required Files
 Inside your `<head>` tag or before the closing `</body>`, include:
