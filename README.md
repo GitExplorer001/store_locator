@@ -27,7 +27,7 @@ Insert this inside your HTML:
 ### 2️⃣ Include Required Files
 Inside your `<head>` tag, include:
 
-`<link rel="stylesheet" href="locator-plugin/store-locator.css">`
+`<link rel="stylesheet" href="locator-plugin/store-locator.css">` <br>
 `<script src="locator-plugin/store-locator.js"></script>`
 
 ### 3️⃣ Prepare Your Data
