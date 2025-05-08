@@ -1,0 +1,35 @@
+[
+    {
+        "name": "30A Bus Stand (Sinthee)",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "postal_code": "700050",
+        "country": "India",
+        "address": "",
+        "phone": "916292144343",
+        "lat": 22.62880978,
+        "lng": 88.39220723,
+        "map": "",
+        "timings": "10.00 AM - 8.00 PM"
+    },
+    {
+        "name": "Mio Amore",
+        "city": "Kolkata",
+        "address": "191, Park St, Park Circus, Beniapukur, Kolkata, West Bengal 700017",
+        "lat": 22.54342,
+        "lng": 88.3659178,
+        "phone": "+9118002124030",
+        "timings": "10:00 AM - 10:00 PM",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.9425073416332!2d88.36348697587142!3d22.543826334023265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0276e1a1561375%3A0x5000d0f101b595f4!2sMio%20Amore%20-%20The%20Cake%20Shop%20(Park%20Circus)!5e0!3m2!1sen!2sin!4v1746604758759!5m2!1sen!2sin"
+    },
+    {
+        "name": "Mio Amore",
+        "city": "CU",
+        "address": "83, Chittaranjan Ave, Haltu, Calcutta University, Tiretti, Kolkata, West Bengal 700073",
+        "lat": 22.56263,
+        "lng": 88.36304,
+        "phone": "+918017993363",
+        "timings": "11:00 AM - 10:00 PM",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117917.71225717707!2d88.2836599759988!3d22.544350695049676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277ac2d6cd71f%3A0x7b18caae4a49a757!2sMio%20Amore%20-%20The%20Cake%20Shop%20(Central%20Metro)!5e0!3m2!1sen!2sin!4v1746600590619!5m2!1sen!2sin"
+    }
+]

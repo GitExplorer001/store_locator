@@ -1,0 +1,3472 @@
+[
+  {
+    "name": "Outlet 1",
+    "city": "Sinthee",
+    "lat": 22.6288097752119,
+    "phone": "+917860477363",
+    "lng": 88.39220722597705,
+    "country": "India",
+    "postal_code": "700050",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 2",
+    "city": "Panchannagram",
+    "lat": 22.53069769067159,
+    "phone": "+916512025123",
+    "lng": 88.3893556147625,
+    "country": "India",
+    "postal_code": "700039",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 3",
+    "city": "Nagerbazar",
+    "lat": 22.642244007690564,
+    "phone": "+919367597250",
+    "lng": 88.43109060205978,
+    "country": "India",
+    "postal_code": "700052",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 4",
+    "city": "Santoshpur",
+    "lat": 22.647135194718643,
+    "phone": "+919482359973",
+    "lng": 88.36599210240169,
+    "country": "India",
+    "postal_code": "700035",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 5",
+    "city": "Murshidabad",
+    "lat": 22.487319190278132,
+    "phone": "+919479258253",
+    "lng": 88.39367895885681,
+    "country": "India",
+    "postal_code": "700075",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 6",
+    "city": "Kolkata",
+    "lat": 22.575476628259082,
+    "phone": "+917046645955",
+    "lng": 88.01091087449477,
+    "country": "India",
+    "postal_code": "711401",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 7",
+    "city": "Kolkata",
+    "lat": 22.368712618354717,
+    "phone": "+919520955919",
+    "lng": 88.27114694425404,
+    "country": "India",
+    "postal_code": "743398",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 8",
+    "city": "Kolkata",
+    "lat": 22.36881532540342,
+    "phone": "+918066778742",
+    "lng": 88.27198923426779,
+    "country": "India",
+    "postal_code": "743503",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 9",
+    "city": "Kolkata",
+    "lat": 22.58498957218202,
+    "phone": "+917600470979",
+    "lng": 88.23730187815092,
+    "country": "India",
+    "postal_code": "711302",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 10",
+    "city": "Kolkata",
+    "lat": 22.525000215349554,
+    "phone": "+918743283719",
+    "lng": 88.26929872256753,
+    "country": "India",
+    "postal_code": "",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 11",
+    "city": "Kolkata",
+    "lat": 22.605513786699692,
+    "phone": "+917038091948",
+    "lng": 88.24552883831232,
+    "country": "India",
+    "postal_code": "711302",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 12",
+    "city": "Ranikuthi",
+    "lat": 22.502069799126538,
+    "phone": "+918816638921",
+    "lng": 88.35797912144244,
+    "country": "India",
+    "postal_code": "700045",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 13",
+    "city": "Kolkata",
+    "lat": 22.885437288326692,
+    "phone": "+917292631396",
+    "lng": 87.78497785440496,
+    "country": "India",
+    "postal_code": "712601",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 14",
+    "city": "Kolkata",
+    "lat": 23.68806124875153,
+    "phone": "+919912884553",
+    "lng": 86.96797288620733,
+    "country": "India",
+    "postal_code": "713301",
+    "state": "Paschim Bardhaman"
+  },
+  {
+    "name": "Outlet 15",
+    "city": "Kolkata",
+    "lat": 22.828243098005654,
+    "phone": "+916508029057",
+    "lng": 88.62783798998852,
+    "country": "India",
+    "postal_code": "743263",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 16",
+    "city": "Kolkata",
+    "lat": 23.68236298953252,
+    "phone": "+919693846932",
+    "lng": 86.98587983974723,
+    "country": "India",
+    "postal_code": "713303",
+    "state": "Paschim Bardhaman"
+  },
+  {
+    "name": "Outlet 17",
+    "city": "Barrackpore",
+    "lat": 22.609607252078884,
+    "phone": "+919919231537",
+    "lng": 88.43218130505842,
+    "country": "India",
+    "postal_code": "700059",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 18",
+    "city": "Kolkata",
+    "lat": 22.563928569053807,
+    "phone": "+917149882996",
+    "lng": 88.32091459390598,
+    "country": "India",
+    "postal_code": "711102",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 19",
+    "city": "Cossipore",
+    "lat": 22.602901545547414,
+    "phone": "+917746272774",
+    "lng": 88.37282959709037,
+    "country": "India",
+    "postal_code": "700003",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 20",
+    "city": "Kolkata",
+    "lat": 22.484669413059592,
+    "phone": "+916321043193",
+    "lng": 88.37544476551005,
+    "country": "India",
+    "postal_code": "700092",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 21",
+    "city": "Kolkata",
+    "lat": 22.78834088805021,
+    "phone": "+918692621000",
+    "lng": 88.74103765907593,
+    "country": "India",
+    "postal_code": "743438",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 22",
+    "city": "Kolkata",
+    "lat": 22.46395090790858,
+    "phone": "+916873644990",
+    "lng": 87.9690482177671,
+    "country": "India",
+    "postal_code": "711303",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 23",
+    "city": "Barrackpore",
+    "lat": 22.610652589225275,
+    "phone": "+917827739175",
+    "lng": 88.42707302825477,
+    "country": "India",
+    "postal_code": "700059",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 24",
+    "city": "Kolkata",
+    "lat": 23.3352259225373,
+    "phone": "+917092099286",
+    "lng": 88.64407178579425,
+    "country": "India",
+    "postal_code": "741502",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 25",
+    "city": "Kolkata",
+    "lat": 22.594817951285087,
+    "phone": "+916961720542",
+    "lng": 88.42548565121191,
+    "country": "India",
+    "postal_code": "700091",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 26",
+    "city": "Kolkata",
+    "lat": 22.392393511245928,
+    "phone": "+916861829294",
+    "lng": 88.21206235453752,
+    "country": "India",
+    "postal_code": "743377",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 27",
+    "city": "Kolkata",
+    "lat": 22.636274904449976,
+    "phone": "+916836050110",
+    "lng": 88.35149189839477,
+    "country": "India",
+    "postal_code": "711201",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 28",
+    "city": "Kasba",
+    "lat": 22.521390794956613,
+    "phone": "+916250766917",
+    "lng": 88.36918598206161,
+    "country": "India",
+    "postal_code": "700019",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 29",
+    "city": "Kasba",
+    "lat": 22.5272305,
+    "phone": "+919607220780",
+    "lng": 88.3655746,
+    "country": "India",
+    "postal_code": "700019",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 30",
+    "city": "Kolkata",
+    "lat": 22.91887715769107,
+    "phone": "+919705071997",
+    "lng": 88.38558342308121,
+    "country": "India",
+    "postal_code": "712123",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 31",
+    "city": "Bangur Avenue",
+    "lat": 22.607447855156895,
+    "phone": "+917091636054",
+    "lng": 88.41040144227627,
+    "country": "India",
+    "postal_code": "700055",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 32",
+    "city": "Kolkata",
+    "lat": 22.607769245893888,
+    "phone": "+916395472771",
+    "lng": 88.28369297520454,
+    "country": "India",
+    "postal_code": "711403",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 33",
+    "city": "Naktala",
+    "lat": 22.47605976671425,
+    "phone": "+917802818503",
+    "lng": 88.35868456873402,
+    "country": "India",
+    "postal_code": "700040",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 34",
+    "city": "Bagha Jatin",
+    "lat": 22.635044489837696,
+    "phone": "+917689718960",
+    "lng": 88.37197286532451,
+    "country": "India",
+    "postal_code": "700036",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 35",
+    "city": "Kolkata",
+    "lat": 22.718172805239423,
+    "phone": "+916195873204",
+    "lng": 88.48843163425111,
+    "country": "India",
+    "postal_code": "700124",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 36",
+    "city": "Kolkata",
+    "lat": 22.7233622047144,
+    "phone": "+917812015777",
+    "lng": 88.47864435447406,
+    "country": "India",
+    "postal_code": "700126",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 37",
+    "city": "Kolkata",
+    "lat": 22.71869198666342,
+    "phone": "+917263723151",
+    "lng": 88.48086442888702,
+    "country": "India",
+    "postal_code": "700124",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 38",
+    "city": "Kolkata",
+    "lat": 22.72330198690338,
+    "phone": "+919478433544",
+    "lng": 88.47367872411994,
+    "country": "India",
+    "postal_code": "700126",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 39",
+    "city": "Kolkata",
+    "lat": 22.724304300021373,
+    "phone": "+917348125471",
+    "lng": 88.48295958045918,
+    "country": "India",
+    "postal_code": "700124",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 40",
+    "city": "Kolkata",
+    "lat": 22.6633484802507,
+    "phone": "+917766194013",
+    "lng": 88.136759037367,
+    "country": "India",
+    "postal_code": "711404",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 41",
+    "city": "Kolkata",
+    "lat": 22.76108643083402,
+    "phone": "+919166666330",
+    "lng": 88.3678677702957,
+    "country": "India",
+    "postal_code": "700120",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 42",
+    "city": "Kolkata",
+    "lat": 22.3631215529457,
+    "phone": "+916357312131",
+    "lng": 88.43048701058551,
+    "country": "India",
+    "postal_code": "700144",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 43",
+    "city": "Kolkata",
+    "lat": 22.662528283555215,
+    "phone": "+916227649330",
+    "lng": 88.86733364992826,
+    "country": "India",
+    "postal_code": "743411",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 44",
+    "city": "Kolkata",
+    "lat": 22.4990678701618,
+    "phone": "+916906657514",
+    "lng": 88.23124062277745,
+    "country": "India",
+    "postal_code": "700140",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 45",
+    "city": "Kolkata",
+    "lat": 22.55780676098194,
+    "phone": "+919016438335",
+    "lng": 88.3070391177113,
+    "country": "India",
+    "postal_code": "711103",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 46",
+    "city": "Ballygunge",
+    "lat": 22.53928720123123,
+    "phone": "+919714598481",
+    "lng": 88.36310638917996,
+    "country": "India",
+    "postal_code": "700017",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 47",
+    "city": "Baranagar",
+    "lat": 22.484132712578152,
+    "phone": "+917557684491",
+    "lng": 88.3020975925515,
+    "country": "India",
+    "postal_code": "700061",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 48",
+    "city": "Chetla",
+    "lat": 22.487169006366504,
+    "phone": "+918284470396",
+    "lng": 88.31331415815411,
+    "country": "India",
+    "postal_code": "700008",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 49",
+    "city": "Shyamnagar",
+    "lat": 22.457913335681614,
+    "phone": "+916326244162",
+    "lng": 88.30822770392805,
+    "country": "India",
+    "postal_code": "700063",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 50",
+    "city": "Lake Gardens",
+    "lat": 22.49627377698724,
+    "phone": "+918038579586",
+    "lng": 88.3193498687142,
+    "country": "India",
+    "postal_code": "700034",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 51",
+    "city": "Titagarh",
+    "lat": 22.507406332010007,
+    "phone": "+919271923826",
+    "lng": 88.30657654152438,
+    "country": "India",
+    "postal_code": "700060",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 52",
+    "city": "Titagarh",
+    "lat": 22.504134015844425,
+    "phone": "+918035022924",
+    "lng": 88.31913039334225,
+    "country": "India",
+    "postal_code": "700060",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 53",
+    "city": "Lake Gardens",
+    "lat": 22.499619424957302,
+    "phone": "+917189512563",
+    "lng": 88.317629121007,
+    "country": "India",
+    "postal_code": "700034",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 54",
+    "city": "Kolkata",
+    "lat": 22.07269948219972,
+    "phone": "+916914757173",
+    "lng": 87.33921647726403,
+    "country": "India",
+    "postal_code": "721424",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 55",
+    "city": "Belgharia",
+    "lat": 22.660512677183082,
+    "phone": "+918083730882",
+    "lng": 88.3870433268898,
+    "country": "India",
+    "postal_code": "700056",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 56",
+    "city": "Ultadanga",
+    "lat": 22.56180996507525,
+    "phone": "+916838379463",
+    "lng": 88.4075880430348,
+    "country": "India",
+    "postal_code": "700010",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 57",
+    "city": "Kolkata",
+    "lat": 22.636041457064106,
+    "phone": "+919058350266",
+    "lng": 88.3512584892721,
+    "country": "India",
+    "postal_code": "711202",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 58",
+    "city": "Chakdaha",
+    "lat": 22.567718667180902,
+    "phone": "+916492349235",
+    "lng": 88.35252848395639,
+    "country": "India",
+    "postal_code": "700069",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 59",
+    "city": "Kolkata",
+    "lat": 22.69588464958856,
+    "phone": "+919719121296",
+    "lng": 88.68848976695617,
+    "country": "India",
+    "postal_code": "743424",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 60",
+    "city": "Kolkata",
+    "lat": 23.610134997814203,
+    "phone": "+916283579202",
+    "lng": 88.38390034383397,
+    "country": "India",
+    "postal_code": "741126",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 61",
+    "city": "Kolkata",
+    "lat": 22.82714345315653,
+    "phone": "+916605859833",
+    "lng": 88.34209089043837,
+    "country": "India",
+    "postal_code": "712124",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 62",
+    "city": "Kolkata",
+    "lat": 22.096858743851012,
+    "phone": "+918422323362",
+    "lng": 87.75207716693441,
+    "country": "India",
+    "postal_code": "721601",
+    "state": "PURBA MEDINIPUR"
+  },
+  {
+    "name": "Outlet 63",
+    "city": "New Alipore",
+    "lat": 22.53078679916159,
+    "phone": "+918792319996",
+    "lng": 88.34551613588553,
+    "country": "India",
+    "postal_code": "700025",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 64",
+    "city": "Kolkata",
+    "lat": 22.485224100790095,
+    "phone": "+919760974820",
+    "lng": 88.36059906355362,
+    "country": "India",
+    "postal_code": "700092",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 65",
+    "city": "Nagerbazar",
+    "lat": 22.663607273996956,
+    "phone": "+916083488543",
+    "lng": 88.42386987399402,
+    "country": "India",
+    "postal_code": "700052",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 66",
+    "city": "Old Malda",
+    "lat": 22.65928478961397,
+    "phone": "+916067982861",
+    "lng": 88.4412439113616,
+    "country": "India",
+    "postal_code": "700081",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 67",
+    "city": "Kolkata",
+    "lat": 22.575533919575307,
+    "phone": "+917365897188",
+    "lng": 88.4713203663347,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 68",
+    "city": "Kolkata",
+    "lat": 23.66794598121236,
+    "phone": "+917614056016",
+    "lng": 87.69427868881246,
+    "country": "India",
+    "postal_code": "731204",
+    "state": "Birbhum"
+  },
+  {
+    "name": "Outlet 69",
+    "city": "Kolkata",
+    "lat": 23.043434884144666,
+    "phone": "+919620240240",
+    "lng": 88.83102355981579,
+    "country": "India",
+    "postal_code": "743235",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 70",
+    "city": "Raiganj",
+    "lat": 22.46174222671357,
+    "phone": "+918840314936",
+    "lng": 88.37907057001594,
+    "country": "India",
+    "postal_code": "700084",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 71",
+    "city": "Ashok Nagar",
+    "lat": 22.51957216470749,
+    "phone": "+918286212313",
+    "lng": 88.37680030364008,
+    "country": "India",
+    "postal_code": "700042",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 72",
+    "city": "Beliaghata",
+    "lat": 22.56942316817406,
+    "phone": "+919302943954",
+    "lng": 88.36123268033673,
+    "country": "India",
+    "postal_code": "700012",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 73",
+    "city": "Kolkata",
+    "lat": 22.459806145955156,
+    "phone": "+916444234668",
+    "lng": 88.36437948284674,
+    "country": "India",
+    "postal_code": "700096",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 74",
+    "city": "Kolkata",
+    "lat": 22.48706225200204,
+    "phone": "+919643846747",
+    "lng": 88.18955009825793,
+    "country": "India",
+    "postal_code": "700137",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 75",
+    "city": "Kolkata",
+    "lat": 23.24179834451981,
+    "phone": "+918226560896",
+    "lng": 87.86834652597503,
+    "country": "India",
+    "postal_code": "713101",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 76",
+    "city": "Kolkata",
+    "lat": 23.240415463061375,
+    "phone": "+919125342775",
+    "lng": 87.85926759094743,
+    "country": "India",
+    "postal_code": "713423",
+    "state": "Burdwan"
+  },
+  {
+    "name": "Outlet 77",
+    "city": "Kolkata",
+    "lat": 23.254723913568384,
+    "phone": "+918317365568",
+    "lng": 87.85833617947135,
+    "country": "India",
+    "postal_code": "713104",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 78",
+    "city": "Kolkata",
+    "lat": 23.230442665929562,
+    "phone": "+916055779410",
+    "lng": 87.86752856142904,
+    "country": "India",
+    "postal_code": "713103",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 79",
+    "city": "Kolkata",
+    "lat": 22.312592686898856,
+    "phone": "+917744513876",
+    "lng": 88.66903905645042,
+    "country": "India",
+    "postal_code": "743329",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 80",
+    "city": "Nabadwip",
+    "lat": 22.572757128560596,
+    "phone": "+919372698220",
+    "lng": 88.35844765637974,
+    "country": "India",
+    "postal_code": "700073",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 81",
+    "city": "Kolkata",
+    "lat": 23.07768583331606,
+    "phone": "+917585483138",
+    "lng": 88.53050913175441,
+    "country": "India",
+    "postal_code": "743248",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 82",
+    "city": "Kolkata",
+    "lat": 22.402796120355145,
+    "phone": "+917024894155",
+    "lng": 88.49143839675526,
+    "country": "India",
+    "postal_code": "743330",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 83",
+    "city": "Kolkata",
+    "lat": 22.86329321489135,
+    "phone": "+918382513589",
+    "lng": 88.36782430734799,
+    "country": "India",
+    "postal_code": "712136",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 84",
+    "city": "Kolkata",
+    "lat": 22.865801967223614,
+    "phone": "+916778029943",
+    "lng": 88.37151217763419,
+    "country": "India",
+    "postal_code": "712136",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 85",
+    "city": "Kolkata",
+    "lat": 22.089282561391194,
+    "phone": "+918817214258",
+    "lng": 87.85713161848419,
+    "country": "India",
+    "postal_code": "721659",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 86",
+    "city": "Kolkata",
+    "lat": 22.68748998781523,
+    "phone": "+916502980919",
+    "lng": 88.2685373170283,
+    "country": "India",
+    "postal_code": "712702",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 87",
+    "city": "Kolkata",
+    "lat": 22.971423822498732,
+    "phone": "+916019923958",
+    "lng": 88.78152952423682,
+    "country": "India",
+    "postal_code": "743245",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 88",
+    "city": "Kolkata",
+    "lat": 22.73265488886754,
+    "phone": "+916773748314",
+    "lng": 87.33901942492768,
+    "country": "India",
+    "postal_code": "721253",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 89",
+    "city": "Behala",
+    "lat": 22.5176351725616,
+    "phone": "+916766250328",
+    "lng": 88.33493590983217,
+    "country": "India",
+    "postal_code": "700027",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 90",
+    "city": "Kolkata",
+    "lat": 22.623424832373953,
+    "phone": "+916508612366",
+    "lng": 88.44058328258672,
+    "country": "India",
+    "postal_code": "700157",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 91",
+    "city": "Kolkata",
+    "lat": 22.888307794687414,
+    "phone": "+917794219060",
+    "lng": 88.3992892572617,
+    "country": "India",
+    "postal_code": "712101",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 92",
+    "city": "Kolkata",
+    "lat": 22.891136245425535,
+    "phone": "+919216062277",
+    "lng": 88.37218678312392,
+    "country": "India",
+    "postal_code": "712102",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 93",
+    "city": "Barabazar Market",
+    "lat": 22.618637889399153,
+    "phone": "+917807692363",
+    "lng": 88.37957028517809,
+    "country": "India",
+    "postal_code": "700002",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 94",
+    "city": "Kolkata",
+    "lat": 22.532176760083107,
+    "phone": "+918428993982",
+    "lng": 88.40369128581106,
+    "country": "India",
+    "postal_code": "700100",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 95",
+    "city": "Entally",
+    "lat": 22.55755998058801,
+    "phone": "+918141078542",
+    "lng": 88.37238630825362,
+    "country": "India",
+    "postal_code": "700014",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 96",
+    "city": "Kolkata",
+    "lat": 22.62236297834169,
+    "phone": "+917113431702",
+    "lng": 88.44779842816044,
+    "country": "India",
+    "postal_code": "700157",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 97",
+    "city": "Kanchrapara",
+    "lat": 22.589014373588007,
+    "phone": "+919472550583",
+    "lng": 88.40910502785455,
+    "country": "India",
+    "postal_code": "700064",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 98",
+    "city": "Kolkata",
+    "lat": 21.775406431005703,
+    "phone": "+917431428453",
+    "lng": 87.73385149886471,
+    "country": "India",
+    "postal_code": "721401",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 99",
+    "city": "Kolkata",
+    "lat": 21.778039540376803,
+    "phone": "+916462442894",
+    "lng": 87.74878307498768,
+    "country": "India",
+    "postal_code": "721401",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 100",
+    "city": "Kolkata",
+    "lat": 22.71132650553198,
+    "phone": "+916009524268",
+    "lng": 88.47540593140097,
+    "country": "India",
+    "postal_code": "700124",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 101",
+    "city": "Kolkata",
+    "lat": 22.225521105512883,
+    "phone": "+917860881146",
+    "lng": 88.4480596512453,
+    "country": "India",
+    "postal_code": "743372",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 102",
+    "city": "Santoshpur",
+    "lat": 22.655066341240868,
+    "phone": "+917033315004",
+    "lng": 88.36246446066453,
+    "country": "India",
+    "postal_code": "700035",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 103",
+    "city": "Kolkata",
+    "lat": 22.680945270980267,
+    "phone": "+919517886212",
+    "lng": 88.29563887610125,
+    "country": "India",
+    "postal_code": "712311",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 104",
+    "city": "Kolkata",
+    "lat": 22.598626638829156,
+    "phone": "+918203828596",
+    "lng": 88.3092652737206,
+    "country": "India",
+    "postal_code": "711105",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 105",
+    "city": "Kolkata",
+    "lat": 22.607557319071503,
+    "phone": "+917114438789",
+    "lng": 87.72173594614408,
+    "country": "India",
+    "postal_code": "721211",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 106",
+    "city": "Kolkata",
+    "lat": 22.393692779750054,
+    "phone": "+917555426269",
+    "lng": 87.56011668274684,
+    "country": "India",
+    "postal_code": "721126",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 107",
+    "city": "Jadavpur",
+    "lat": 22.519196183532966,
+    "phone": "+918791379259",
+    "lng": 88.35214308002986,
+    "country": "India",
+    "postal_code": "700029",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 108",
+    "city": "Gariahat",
+    "lat": 22.508154988685657,
+    "phone": "+918336151466",
+    "lng": 88.36751998999145,
+    "country": "India",
+    "postal_code": "700031",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 109",
+    "city": "Kolkata",
+    "lat": 22.967984952134056,
+    "phone": "+916010714400",
+    "lng": 88.09475705626723,
+    "country": "India",
+    "postal_code": "712302",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 110",
+    "city": "Boral",
+    "lat": 22.55420431783931,
+    "phone": "+919956167395",
+    "lng": 88.39355916571255,
+    "country": "India",
+    "postal_code": "700046",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 111",
+    "city": "Kolkata",
+    "lat": 22.57541810091943,
+    "phone": "+918679236201",
+    "lng": 88.19270521989867,
+    "country": "India",
+    "postal_code": "711302",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 112",
+    "city": "Kolkata",
+    "lat": 22.194702364463982,
+    "phone": "+916560068515",
+    "lng": 88.18968270757155,
+    "country": "India",
+    "postal_code": "743331",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 113",
+    "city": "Kolkata",
+    "lat": 22.681337659873172,
+    "phone": "+917883976267",
+    "lng": 88.46147181301,
+    "country": "India",
+    "postal_code": "700132",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 114",
+    "city": "Kolkata",
+    "lat": 22.63301696850799,
+    "phone": "+916055726338",
+    "lng": 88.22305427551802,
+    "country": "India",
+    "postal_code": "711405",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 115",
+    "city": "Sarsuna",
+    "lat": 22.63686511124154,
+    "phone": "+917596419222",
+    "lng": 88.41355718162201,
+    "country": "India",
+    "postal_code": "700028",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 116",
+    "city": "Dhakuria",
+    "lat": 22.62079707491742,
+    "phone": "+918522236424",
+    "lng": 88.39211145592985,
+    "country": "India",
+    "postal_code": "700030",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 117",
+    "city": "Berhampore",
+    "lat": 22.620421066603424,
+    "phone": "+919515475924",
+    "lng": 88.39593418534272,
+    "country": "India",
+    "postal_code": "700074",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 118",
+    "city": "Kolkata",
+    "lat": 22.652042420226156,
+    "phone": "+918607378150",
+    "lng": 88.37824308346488,
+    "country": "India",
+    "postal_code": "700108",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 119",
+    "city": "Kolkata",
+    "lat": 23.56340476100516,
+    "phone": "+917705988562",
+    "lng": 87.28043625188714,
+    "country": "India",
+    "postal_code": "713213",
+    "state": "Paschim Bardhaman"
+  },
+  {
+    "name": "Outlet 120",
+    "city": "Kolkata",
+    "lat": 23.53723709516309,
+    "phone": "+918221250954",
+    "lng": 87.29633468426029,
+    "country": "India",
+    "postal_code": "713216",
+    "state": "Paschim Bardhaman"
+  },
+  {
+    "name": "Outlet 121",
+    "city": "Kolkata",
+    "lat": 22.76216831200862,
+    "phone": "+919596146094",
+    "lng": 88.55026399303352,
+    "country": "India",
+    "postal_code": "743248",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 122",
+    "city": "Kolkata",
+    "lat": 22.768013494301393,
+    "phone": "+918205795949",
+    "lng": 88.54115482293456,
+    "country": "India",
+    "postal_code": "743248",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 123",
+    "city": "Kolkata",
+    "lat": 21.900445712397318,
+    "phone": "+916830013241",
+    "lng": 87.53763958738953,
+    "country": "India",
+    "postal_code": "721429",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 124",
+    "city": "Shyambazar",
+    "lat": 22.598615873170502,
+    "phone": "+918248528412",
+    "lng": 88.3738682687188,
+    "country": "India",
+    "postal_code": "700004",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 125",
+    "city": "Burrabazar",
+    "lat": 22.586394232175756,
+    "phone": "+916346656126",
+    "lng": 88.36002454793265,
+    "country": "India",
+    "postal_code": "700007",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 126",
+    "city": "Bijoygarh",
+    "lat": 22.477834344678655,
+    "phone": "+918623924379",
+    "lng": 88.37618010275062,
+    "country": "India",
+    "postal_code": "700032",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 127",
+    "city": "Raiganj",
+    "lat": 22.469661147019977,
+    "phone": "+918311768038",
+    "lng": 88.3776282379496,
+    "country": "India",
+    "postal_code": "700084",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 128",
+    "city": "Narendrapur",
+    "lat": 22.464589620361863,
+    "phone": "+919817374283",
+    "lng": 88.37918718079224,
+    "country": "India",
+    "postal_code": "700047",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 129",
+    "city": "Raiganj",
+    "lat": 22.458290899279223,
+    "phone": "+916642959204",
+    "lng": 88.38378266531885,
+    "country": "India",
+    "postal_code": "700084",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 130",
+    "city": "Kolkata",
+    "lat": 22.468271877261138,
+    "phone": "+918396611073",
+    "lng": 88.4038469179307,
+    "country": "India",
+    "postal_code": "700094",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 131",
+    "city": "Raiganj",
+    "lat": 22.466907617085603,
+    "phone": "+919349168200",
+    "lng": 88.40086032893375,
+    "country": "India",
+    "postal_code": "700084",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 132",
+    "city": "Kolkata",
+    "lat": 22.475401395550964,
+    "phone": "+916330960853",
+    "lng": 88.40053380114955,
+    "country": "India",
+    "postal_code": "700094",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 133",
+    "city": "Jadavpur",
+    "lat": 22.518771373907484,
+    "phone": "+916383154466",
+    "lng": 88.36136872520969,
+    "country": "India",
+    "postal_code": "700029",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 134",
+    "city": "Kasba",
+    "lat": 22.519699288117014,
+    "phone": "+918477476129",
+    "lng": 88.36581042356381,
+    "country": "India",
+    "postal_code": "700019",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 135",
+    "city": "Kolkata",
+    "lat": 22.502746252718538,
+    "phone": "+916513621660",
+    "lng": 88.61437039569616,
+    "country": "India",
+    "postal_code": "743502",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 136",
+    "city": "Kolkata",
+    "lat": 22.659094631934416,
+    "phone": "+917223149036",
+    "lng": 87.73736166963258,
+    "country": "India",
+    "postal_code": "721212",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 137",
+    "city": "Kolkata",
+    "lat": 22.69406806731899,
+    "phone": "+919692667262",
+    "lng": 88.40303627451512,
+    "country": "India",
+    "postal_code": "700111",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 138",
+    "city": "Gobardanga",
+    "lat": 22.880456309453656,
+    "phone": "+917953822442",
+    "lng": 88.76146377323353,
+    "country": "India",
+    "postal_code": "743273",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 139",
+    "city": "Kolkata",
+    "lat": 22.838650133258763,
+    "phone": "+918290081388",
+    "lng": 88.62327092422669,
+    "country": "India",
+    "postal_code": "743222",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 140",
+    "city": "Kolkata",
+    "lat": 22.34135161103638,
+    "phone": "+918189613579",
+    "lng": 87.31701962986425,
+    "country": "India",
+    "postal_code": "721301",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 141",
+    "city": "Kasba",
+    "lat": 22.516240317835404,
+    "phone": "+917800645452",
+    "lng": 88.3666242400549,
+    "country": "India",
+    "postal_code": "700019",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 142",
+    "city": "Kolkata",
+    "lat": 22.87644169951554,
+    "phone": "+919153590368",
+    "lng": 87.79102060339564,
+    "country": "India",
+    "postal_code": "712601",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 143",
+    "city": "Sinthee",
+    "lat": 22.595934281613115,
+    "phone": "+919963274126",
+    "lng": 88.36533326288232,
+    "country": "India",
+    "postal_code": "700005",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 144",
+    "city": "Kolkata",
+    "lat": 22.842766833990304,
+    "phone": "+918264229169",
+    "lng": 88.65753004128182,
+    "country": "India",
+    "postal_code": "743263",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 145",
+    "city": "Kolkata",
+    "lat": 22.841377208386678,
+    "phone": "+918573085878",
+    "lng": 88.65462692922942,
+    "country": "India",
+    "postal_code": "743263",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 146",
+    "city": "Kolkata",
+    "lat": 22.060300313084,
+    "phone": "+917540341848",
+    "lng": 88.07618284343022,
+    "country": "India",
+    "postal_code": "721657",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 147",
+    "city": "Kolkata",
+    "lat": 22.074139140738417,
+    "phone": "+919362575792",
+    "lng": 88.13862874923608,
+    "country": "India",
+    "postal_code": "721602",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 148",
+    "city": "Kolkata",
+    "lat": 22.92350140938877,
+    "phone": "+919706347790",
+    "lng": 88.43309375534469,
+    "country": "India",
+    "postal_code": "743136",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 149",
+    "city": "Gazole",
+    "lat": 22.4854208379882,
+    "phone": "+916642114276",
+    "lng": 88.33948550188109,
+    "country": "India",
+    "postal_code": "700082",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 150",
+    "city": "Kolkata",
+    "lat": 22.9607396590814,
+    "phone": "+917613730476",
+    "lng": 88.57044226864453,
+    "country": "India",
+    "postal_code": "741249",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 151",
+    "city": "Kolkata",
+    "lat": 22.56562342649572,
+    "phone": "+916421060305",
+    "lng": 88.28190851983392,
+    "country": "India",
+    "postal_code": "711109",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 152",
+    "city": "Kolkata",
+    "lat": 22.569203168919067,
+    "phone": "+917014182035",
+    "lng": 88.9111943691012,
+    "country": "India",
+    "postal_code": "743426",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 153",
+    "city": "Shyambazar",
+    "lat": 22.59516352295997,
+    "phone": "+916916788588",
+    "lng": 88.37009803688873,
+    "country": "India",
+    "postal_code": "700004",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 154",
+    "city": "Kalighat",
+    "lat": 22.523526721866652,
+    "phone": "+916661542412",
+    "lng": 88.34607716762982,
+    "country": "India",
+    "postal_code": "700026",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 155",
+    "city": "Kolkata",
+    "lat": 23.186614186140364,
+    "phone": "+916221078883",
+    "lng": 88.85620406894841,
+    "country": "India",
+    "postal_code": "743270",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 156",
+    "city": "B.B.D. Bagh",
+    "lat": 22.569592965130933,
+    "phone": "+919332532344",
+    "lng": 88.34571413360996,
+    "country": "India",
+    "postal_code": "700001",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 157",
+    "city": "Kolkata",
+    "lat": 22.684380506342507,
+    "phone": "+916225369124",
+    "lng": 88.34283253687148,
+    "country": "India",
+    "postal_code": "712233",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 158",
+    "city": "Kolkata",
+    "lat": 22.903760120753596,
+    "phone": "+916695213385",
+    "lng": 88.3825055536766,
+    "country": "India",
+    "postal_code": "712103",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 159",
+    "city": "Kolkata",
+    "lat": 22.590651985132435,
+    "phone": "+916150436269",
+    "lng": 88.34090832421857,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 160",
+    "city": "Bagha Jatin",
+    "lat": 22.58341784624964,
+    "phone": "+917217022047",
+    "lng": 88.34290319180828,
+    "country": "India",
+    "postal_code": "700036",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 161",
+    "city": "Kolkata",
+    "lat": 22.58170063564683,
+    "phone": "+917289684343",
+    "lng": 88.3316062288001,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 162",
+    "city": "Kolkata",
+    "lat": 22.57243642077033,
+    "phone": "+916403125462",
+    "lng": 88.32766075777973,
+    "country": "India",
+    "postal_code": "711102",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 163",
+    "city": "Kolkata",
+    "lat": 22.709751276847662,
+    "phone": "+918937588941",
+    "lng": 88.46990286717431,
+    "country": "India",
+    "postal_code": "700124",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 164",
+    "city": "Kolkata",
+    "lat": 22.57324554446183,
+    "phone": "+918834763851",
+    "lng": 88.30604485280176,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 165",
+    "city": "Kolkata",
+    "lat": 22.805977619704336,
+    "phone": "+916022240667",
+    "lng": 88.37060961911762,
+    "country": "India",
+    "postal_code": "743144",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 166",
+    "city": "Kolkata",
+    "lat": 22.31921747661073,
+    "phone": "+916028422659",
+    "lng": 87.30587091452749,
+    "country": "India",
+    "postal_code": "721306",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 167",
+    "city": "Kolkata",
+    "lat": 22.30853367515077,
+    "phone": "+917918272111",
+    "lng": 87.29693617385745,
+    "country": "India",
+    "postal_code": "721302",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 168",
+    "city": "Kolkata",
+    "lat": 23.627935499518436,
+    "phone": "+919746813321",
+    "lng": 87.54128689581533,
+    "country": "India",
+    "postal_code": "731214",
+    "state": "Birbhum"
+  },
+  {
+    "name": "Outlet 169",
+    "city": "Bijoygarh",
+    "lat": 22.495948844364314,
+    "phone": "+916017151299",
+    "lng": 88.36998965477564,
+    "country": "India",
+    "postal_code": "700032",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 170",
+    "city": "Kolkata",
+    "lat": 22.605074489798582,
+    "phone": "+916003021942",
+    "lng": 88.43434964939397,
+    "country": "India",
+    "postal_code": "700159",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 171",
+    "city": "Kolkata",
+    "lat": 22.945809429871304,
+    "phone": "+917461355751",
+    "lng": 88.54400023172282,
+    "country": "India",
+    "postal_code": "741235",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 172",
+    "city": "Kolkata",
+    "lat": 23.66524471173668,
+    "phone": "+919120129919",
+    "lng": 87.6795448671745,
+    "country": "India",
+    "postal_code": "731204",
+    "state": "Birbhum"
+  },
+  {
+    "name": "Outlet 173",
+    "city": "Park Street",
+    "lat": 22.561968948516775,
+    "phone": "+916649326655",
+    "lng": 88.3565456821486,
+    "country": "India",
+    "postal_code": "700013",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 174",
+    "city": "Barrackpore",
+    "lat": 22.61693686923857,
+    "phone": "+919144330840",
+    "lng": 88.43404434905358,
+    "country": "India",
+    "postal_code": "700059",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 175",
+    "city": "Kolkata",
+    "lat": 22.170744516907067,
+    "phone": "+916652727651",
+    "lng": 88.41629803070452,
+    "country": "India",
+    "postal_code": "743337",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 176",
+    "city": "Kolkata",
+    "lat": 23.097834658757083,
+    "phone": "+917184674014",
+    "lng": 88.45941680668268,
+    "country": "India",
+    "postal_code": "712501",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 177",
+    "city": "Kolkata",
+    "lat": 22.463623417757084,
+    "phone": "+918714113218",
+    "lng": 88.33444224984207,
+    "country": "India",
+    "postal_code": "700104",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 178",
+    "city": "Tollygunge",
+    "lat": 22.54781215433898,
+    "phone": "+917146248575",
+    "lng": 88.28736749819296,
+    "country": "India",
+    "postal_code": "700024",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 179",
+    "city": "Kolkata",
+    "lat": 22.591932169689617,
+    "phone": "+919514078786",
+    "lng": 88.31678319061314,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 180",
+    "city": "Nagerbazar",
+    "lat": 22.634764251251937,
+    "phone": "+918123719845",
+    "lng": 88.4347910649676,
+    "country": "India",
+    "postal_code": "700052",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 181",
+    "city": "Kolkata",
+    "lat": 21.868844861899717,
+    "phone": "+916009770120",
+    "lng": 88.18551968474955,
+    "country": "India",
+    "postal_code": "743347",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 182",
+    "city": "Kolkata",
+    "lat": 22.864959058182173,
+    "phone": "+916821191015",
+    "lng": 88.3962909445245,
+    "country": "India",
+    "postal_code": "743126",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 183",
+    "city": "Kolkata",
+    "lat": 22.865988466071233,
+    "phone": "+917413567189",
+    "lng": 88.4080784409351,
+    "country": "India",
+    "postal_code": "743129",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 184",
+    "city": "Kolkata",
+    "lat": 22.365919844838416,
+    "phone": "+916148635535",
+    "lng": 87.88853445160085,
+    "country": "India",
+    "postal_code": "721172",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 185",
+    "city": "Gangarampur",
+    "lat": 22.61076036496202,
+    "phone": "+919203912749",
+    "lng": 88.40039147330421,
+    "country": "India",
+    "postal_code": "700089",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 186",
+    "city": "Kolkata",
+    "lat": 22.634119795405322,
+    "phone": "+919039179161",
+    "lng": 88.45280164854654,
+    "country": "India",
+    "postal_code": "700136",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 187",
+    "city": "Kolkata",
+    "lat": 23.2211013,
+    "phone": "+918180439314",
+    "lng": 88.3570704,
+    "country": "India",
+    "postal_code": "713409",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 188",
+    "city": "Kolkata",
+    "lat": 22.97436029623527,
+    "phone": "+917278954324",
+    "lng": 88.43539578819596,
+    "country": "India",
+    "postal_code": "741235",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 189",
+    "city": "Kolkata",
+    "lat": 22.979073777580577,
+    "phone": "+918489082400",
+    "lng": 88.43725251113706,
+    "country": "India",
+    "postal_code": "741235",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 190",
+    "city": "Kolkata",
+    "lat": 22.96996396953888,
+    "phone": "+919562544187",
+    "lng": 88.46486171460703,
+    "country": "India",
+    "postal_code": "741235",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 191",
+    "city": "Kolkata",
+    "lat": 22.44723841465918,
+    "phone": "+918317892292",
+    "lng": 88.39190147863872,
+    "country": "India",
+    "postal_code": "700103",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 192",
+    "city": "Sodepur",
+    "lat": 22.676575858526164,
+    "phone": "+916903249996",
+    "lng": 88.37624451574078,
+    "country": "India",
+    "postal_code": "700058",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 193",
+    "city": "Kolkata",
+    "lat": 22.943853964939837,
+    "phone": "+917232729896",
+    "lng": 88.44726682827984,
+    "country": "India",
+    "postal_code": "743145",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 194",
+    "city": "Kolkata",
+    "lat": 22.95240828366869,
+    "phone": "+917151612871",
+    "lng": 88.424556744338,
+    "country": "India",
+    "postal_code": "743145",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 195",
+    "city": "Kolkata",
+    "lat": 22.947013791899817,
+    "phone": "+918080534464",
+    "lng": 88.44870776876773,
+    "country": "India",
+    "postal_code": "743145",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 196",
+    "city": "Kolkata",
+    "lat": 22.580086981651093,
+    "phone": "+916054022481",
+    "lng": 88.39018275665607,
+    "country": "India",
+    "postal_code": "700107",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 197",
+    "city": "Kolkata",
+    "lat": 22.513022211489165,
+    "phone": "+918211550700",
+    "lng": 88.40507437841919,
+    "country": "India",
+    "postal_code": "700107",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 198",
+    "city": "Kolkata",
+    "lat": 23.643440910711526,
+    "phone": "+916560033248",
+    "lng": 88.12710624276085,
+    "country": "India",
+    "postal_code": "713130",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 199",
+    "city": "Kolkata",
+    "lat": 22.420513726401424,
+    "phone": "+919655319817",
+    "lng": 87.31596816606567,
+    "country": "India",
+    "postal_code": "721101",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 200",
+    "city": "Kolkata",
+    "lat": 22.60275390240087,
+    "phone": "+916232466312",
+    "lng": 88.42550867336774,
+    "country": "India",
+    "postal_code": "700101",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 201",
+    "city": "Kolkata",
+    "lat": 22.35459777575639,
+    "phone": "+918150679108",
+    "lng": 87.33646099950796,
+    "country": "India",
+    "postal_code": "721305",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 202",
+    "city": "Kolkata",
+    "lat": 22.34512883639308,
+    "phone": "+918325441650",
+    "lng": 87.30219946949809,
+    "country": "India",
+    "postal_code": "721301",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 203",
+    "city": "Kolkata",
+    "lat": 22.72413050653221,
+    "phone": "+917092364602",
+    "lng": 88.37823781268364,
+    "country": "India",
+    "postal_code": "700118",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 204",
+    "city": "Metiabruz",
+    "lat": 22.540522460954456,
+    "phone": "+917721423512",
+    "lng": 88.3243901267306,
+    "country": "India",
+    "postal_code": "700023",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 205",
+    "city": "Metiabruz",
+    "lat": 22.53842407338481,
+    "phone": "+916452390422",
+    "lng": 88.3272413772603,
+    "country": "India",
+    "postal_code": "700023",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 206",
+    "city": "Kolkata",
+    "lat": 22.432964124518733,
+    "phone": "+919591077052",
+    "lng": 87.86553368833599,
+    "country": "India",
+    "postal_code": "721134",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 207",
+    "city": "Kolkata",
+    "lat": 22.444336041827725,
+    "phone": "+918912197116",
+    "lng": 87.87568974447184,
+    "country": "India",
+    "postal_code": "721303",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 208",
+    "city": "Kolkata",
+    "lat": 22.70199612419779,
+    "phone": "+919102092780",
+    "lng": 88.3453804664176,
+    "country": "India",
+    "postal_code": "712235",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 209",
+    "city": "Kolkata",
+    "lat": 22.701974698454332,
+    "phone": "+919722923126",
+    "lng": 88.34031266069653,
+    "country": "India",
+    "postal_code": "712246",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 210",
+    "city": "Kolkata",
+    "lat": 23.409634027203882,
+    "phone": "+919309916760",
+    "lng": 88.49502405533487,
+    "country": "India",
+    "postal_code": "741101",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 211",
+    "city": "Kolkata",
+    "lat": 23.406779193659602,
+    "phone": "+918076192679",
+    "lng": 88.49132034004438,
+    "country": "India",
+    "postal_code": "741101",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 212",
+    "city": "Naktala",
+    "lat": 22.480923385622944,
+    "phone": "+916938849003",
+    "lng": 88.34654367384879,
+    "country": "India",
+    "postal_code": "700040",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 213",
+    "city": "Kolkata",
+    "lat": 22.439559233395876,
+    "phone": "+916828621860",
+    "lng": 87.32307231200048,
+    "country": "India",
+    "postal_code": "721101",
+    "state": "Paschim Midnapore"
+  },
+  {
+    "name": "Outlet 214",
+    "city": "Gangarampur",
+    "lat": 22.601909852172298,
+    "phone": "+917197743064",
+    "lng": 88.40570434558867,
+    "country": "India",
+    "postal_code": "700089",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 215",
+    "city": "New Alipore",
+    "lat": 22.528384829988358,
+    "phone": "+918823777202",
+    "lng": 88.35267675317819,
+    "country": "India",
+    "postal_code": "700025",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 216",
+    "city": "Kolkata",
+    "lat": 22.11161008328292,
+    "phone": "+919662917374",
+    "lng": 88.32181544300914,
+    "country": "India",
+    "postal_code": "743336",
+    "state": "South 24 Paraganas"
+  },
+  {
+    "name": "Outlet 217",
+    "city": "Kolkata",
+    "lat": 22.682082008133722,
+    "phone": "+919082224257",
+    "lng": 88.28210890868819,
+    "country": "India",
+    "postal_code": "712311",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 218",
+    "city": "Kolkata",
+    "lat": 22.620501535086177,
+    "phone": "+917040469344",
+    "lng": 88.34864485705849,
+    "country": "India",
+    "postal_code": "711204",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 219",
+    "city": "Kolkata",
+    "lat": 22.695874318936085,
+    "phone": "+916405023928",
+    "lng": 88.45236507676753,
+    "country": "India",
+    "postal_code": "700130",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 220",
+    "city": "Kolkata",
+    "lat": 22.692410210042446,
+    "phone": "+919198146866",
+    "lng": 88.46498597482285,
+    "country": "India",
+    "postal_code": "700128",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 221",
+    "city": "Kolkata",
+    "lat": 22.185699378166337,
+    "phone": "+917657977882",
+    "lng": 87.9981308622742,
+    "country": "India",
+    "postal_code": "721628",
+    "state": "East Midnapur"
+  },
+  {
+    "name": "Outlet 222",
+    "city": "Kolkata",
+    "lat": 22.508874783063643,
+    "phone": "+918676076013",
+    "lng": 88.76976648892621,
+    "country": "India",
+    "postal_code": "743425",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 223",
+    "city": "Kolkata",
+    "lat": 22.580417001199745,
+    "phone": "+919224274511",
+    "lng": 88.32784458803367,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 224",
+    "city": "Kolkata",
+    "lat": 22.569284077790527,
+    "phone": "+918120777038",
+    "lng": 88.31751050695172,
+    "country": "India",
+    "postal_code": "711102",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 225",
+    "city": "Manicktala",
+    "lat": 22.58448437197442,
+    "phone": "+918501720904",
+    "lng": 88.37687223575249,
+    "country": "India",
+    "postal_code": "700006",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 226",
+    "city": "Kolkata",
+    "lat": 22.844500605848886,
+    "phone": "+918045737482",
+    "lng": 88.36169743773753,
+    "country": "India",
+    "postal_code": "712136",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 227",
+    "city": "Kolkata",
+    "lat": 22.735979079491376,
+    "phone": "+916581748083",
+    "lng": 88.19385307264886,
+    "country": "India",
+    "postal_code": "712701",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 228",
+    "city": "Kolkata",
+    "lat": 22.855531194501445,
+    "phone": "+919305245657",
+    "lng": 88.74478559893583,
+    "country": "India",
+    "postal_code": "743247",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 229",
+    "city": "Kolkata",
+    "lat": 22.41357312898907,
+    "phone": "+919916995387",
+    "lng": 87.85993932259878,
+    "country": "India",
+    "postal_code": "721137",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 230",
+    "city": "Kolkata",
+    "lat": 23.170147450612788,
+    "phone": "+919955745088",
+    "lng": 88.09858075456465,
+    "country": "India",
+    "postal_code": "713146",
+    "state": "Purba Bardhaman"
+  },
+  {
+    "name": "Outlet 231",
+    "city": "Alipore",
+    "lat": 22.544372805027923,
+    "phone": "+918778755441",
+    "lng": 88.26935973337866,
+    "country": "India",
+    "postal_code": "700018",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 232",
+    "city": "Kolkata",
+    "lat": 22.554141793287265,
+    "phone": "+916453769984",
+    "lng": 88.40605080469138,
+    "country": "India",
+    "postal_code": "700105",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 233",
+    "city": "Kolkata",
+    "lat": 22.414061976957708,
+    "phone": "+919826845868",
+    "lng": 87.32829652421293,
+    "country": "India",
+    "postal_code": "721101",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 234",
+    "city": "Kolkata",
+    "lat": 22.424462782861834,
+    "phone": "+918182723223",
+    "lng": 87.32680595933732,
+    "country": "India",
+    "postal_code": "721101",
+    "state": "West Medinipur"
+  },
+  {
+    "name": "Outlet 235",
+    "city": "Kolkata",
+    "lat": 21.67937787067354,
+    "phone": "+916215145321",
+    "lng": 87.56297813195152,
+    "country": "India",
+    "postal_code": "721441",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 236",
+    "city": "Kolkata",
+    "lat": 22.423558501959633,
+    "phone": "+918172335604",
+    "lng": 87.3080898348841,
+    "country": "India",
+    "postal_code": "721101",
+    "state": "Paschim Medinipur"
+  },
+  {
+    "name": "Outlet 237",
+    "city": "Bhawanipore",
+    "lat": 22.539553886244907,
+    "phone": "+917740869116",
+    "lng": 88.35493293508999,
+    "country": "India",
+    "postal_code": "700020",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 238",
+    "city": "Kolkata",
+    "lat": 22.60275830703757,
+    "phone": "+917151910797",
+    "lng": 88.42550898418419,
+    "country": "India",
+    "postal_code": "700102",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 239",
+    "city": "Kolkata",
+    "lat": 22.98868407641272,
+    "phone": "+916021483172",
+    "lng": 88.37299989579599,
+    "country": "India",
+    "postal_code": "712148",
+    "state": "HOOGHLY"
+  },
+  {
+    "name": "Outlet 240",
+    "city": "Kolkata",
+    "lat": 22.51420154239735,
+    "phone": "+917140957604",
+    "lng": 88.27147679019336,
+    "country": "India",
+    "postal_code": "700142",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 241",
+    "city": "Berhampore",
+    "lat": 22.622665958894547,
+    "phone": "+918710874803",
+    "lng": 88.41121234598057,
+    "country": "India",
+    "postal_code": "700074",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 242",
+    "city": "Kolkata",
+    "lat": 22.246018450249267,
+    "phone": "+916557897481",
+    "lng": 87.78843177757089,
+    "country": "India",
+    "postal_code": "721629",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 243",
+    "city": "Kalighat",
+    "lat": 22.512672046212344,
+    "phone": "+919358527679",
+    "lng": 88.34622304300008,
+    "country": "India",
+    "postal_code": "700026",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 244",
+    "city": "Kolkata",
+    "lat": 22.49161104790569,
+    "phone": "+916703554736",
+    "lng": 88.40353868903686,
+    "country": "India",
+    "postal_code": "700099",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 245",
+    "city": "Kolkata",
+    "lat": 23.408174029557784,
+    "phone": "+917064489302",
+    "lng": 88.36924920380734,
+    "country": "India",
+    "postal_code": "741302",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 246",
+    "city": "Kolkata",
+    "lat": 22.94202123957415,
+    "phone": "+917552655656",
+    "lng": 88.63783121414369,
+    "country": "India",
+    "postal_code": "741249",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 247",
+    "city": "Kolkata",
+    "lat": 22.88743593485905,
+    "phone": "+916179211031",
+    "lng": 88.41723034007642,
+    "country": "India",
+    "postal_code": "743165",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 248",
+    "city": "Narendrapur",
+    "lat": 22.47309119896199,
+    "phone": "+919674641941",
+    "lng": 88.36394214737369,
+    "country": "India",
+    "postal_code": "700047",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 249",
+    "city": "Kolkata",
+    "lat": 22.011867077300174,
+    "phone": "+919127338862",
+    "lng": 87.97353481705038,
+    "country": "India",
+    "postal_code": "721631",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 250",
+    "city": "Kolkata",
+    "lat": 22.645166125990766,
+    "phone": "+917265839911",
+    "lng": 88.4612406991818,
+    "country": "India",
+    "postal_code": "700136",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 251",
+    "city": "Baguiati",
+    "lat": 22.50350482086697,
+    "phone": "+919355986413",
+    "lng": 88.34004400493534,
+    "country": "India",
+    "postal_code": "700053",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 252",
+    "city": "Kolkata",
+    "lat": 22.686974596769975,
+    "phone": "+916292392731",
+    "lng": 88.44526893605514,
+    "country": "India",
+    "postal_code": "700131",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 253",
+    "city": "Kolkata",
+    "lat": 21.62186983904278,
+    "phone": "+916437391341",
+    "lng": 87.50478275939814,
+    "country": "India",
+    "postal_code": "721428",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 254",
+    "city": "Kolkata",
+    "lat": 22.55899900824697,
+    "phone": "+919549623931",
+    "lng": 88.49522255594005,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 255",
+    "city": "Old Malda",
+    "lat": 22.560505051845606,
+    "phone": "+916718366079",
+    "lng": 88.35169288468839,
+    "country": "India",
+    "postal_code": "700081",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 256",
+    "city": "Kolkata",
+    "lat": 22.58220765250379,
+    "phone": "+918858817745",
+    "lng": 88.45371461638503,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 257",
+    "city": "Baruipur",
+    "lat": 22.664701737831134,
+    "phone": "+917536138900",
+    "lng": 88.4005806866598,
+    "country": "India",
+    "postal_code": "700049",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 258",
+    "city": "Kolkata",
+    "lat": 22.766710747241188,
+    "phone": "+917470845339",
+    "lng": 88.37914014503173,
+    "country": "India",
+    "postal_code": "700122",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 259",
+    "city": "Kolkata",
+    "lat": 22.49101225306027,
+    "phone": "+919180639654",
+    "lng": 88.20962305965035,
+    "country": "India",
+    "postal_code": "700140",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 260",
+    "city": "Kolkata",
+    "lat": 21.62348369354048,
+    "phone": "+919345039771",
+    "lng": 87.52487575349426,
+    "country": "India",
+    "postal_code": "721428",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 261",
+    "city": "Kolkata",
+    "lat": 22.369465207437997,
+    "phone": "+916887458493",
+    "lng": 88.42697471361781,
+    "country": "India",
+    "postal_code": "700144",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 262",
+    "city": "Jadavpur University",
+    "lat": 22.611023923566144,
+    "phone": "+917017832967",
+    "lng": 88.3850327862386,
+    "country": "India",
+    "postal_code": "700037",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 263",
+    "city": "Murshidabad",
+    "lat": 22.49780888523344,
+    "phone": "+919778291019",
+    "lng": 88.3753651594873,
+    "country": "India",
+    "postal_code": "700075",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 264",
+    "city": "Kolkata",
+    "lat": 23.075510519414586,
+    "phone": "+918069524253",
+    "lng": 88.27979827586377,
+    "country": "India",
+    "postal_code": "712149",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 265",
+    "city": "Kolkata",
+    "lat": 22.392138667430586,
+    "phone": "+916314634468",
+    "lng": 87.7410502101246,
+    "country": "India",
+    "postal_code": "721152",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 266",
+    "city": "Ballygunge",
+    "lat": 22.543831358195906,
+    "phone": "+919930337418",
+    "lng": 88.36606027506755,
+    "country": "India",
+    "postal_code": "700017",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 267",
+    "city": "Kolkata",
+    "lat": 22.46949640292542,
+    "phone": "+916888558839",
+    "lng": 88.37783814125125,
+    "country": "India",
+    "postal_code": "700094",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 268",
+    "city": "Lake Town",
+    "lat": 22.572006790121247,
+    "phone": "+917346319774",
+    "lng": 88.38918516864312,
+    "country": "India",
+    "postal_code": "700054",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 269",
+    "city": "Kolkata",
+    "lat": 23.22969519371183,
+    "phone": "+918448821866",
+    "lng": 88.49431942017185,
+    "country": "India",
+    "postal_code": "741402",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 270",
+    "city": "Panchannagram",
+    "lat": 22.52818291581011,
+    "phone": "+917628145392",
+    "lng": 88.38512427550971,
+    "country": "India",
+    "postal_code": "700039",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 271",
+    "city": "Kolkata",
+    "lat": 22.587697721959323,
+    "phone": "+916917163429",
+    "lng": 88.31970854710546,
+    "country": "India",
+    "postal_code": "711101",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 272",
+    "city": "Kolkata",
+    "lat": 22.348362783381745,
+    "phone": "+916065425793",
+    "lng": 88.43854155467264,
+    "country": "India",
+    "postal_code": "700144",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 273",
+    "city": "Raghunathganj",
+    "lat": 22.503444152935703,
+    "phone": "+916062832265",
+    "lng": 88.39589892405783,
+    "country": "India",
+    "postal_code": "700078",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 274",
+    "city": "Kolkata",
+    "lat": 22.573710131629912,
+    "phone": "+919125363939",
+    "lng": 88.48071883394059,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 275",
+    "city": "Kolkata",
+    "lat": 22.724132988627535,
+    "phone": "+919791332063",
+    "lng": 88.37823664697922,
+    "country": "India",
+    "postal_code": "700112",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 276",
+    "city": "Tollygunge Club",
+    "lat": 22.544203424230744,
+    "phone": "+917642224455",
+    "lng": 88.26931401986754,
+    "country": "India",
+    "postal_code": "700044",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 277",
+    "city": "Beleghata",
+    "lat": 22.577770840049624,
+    "phone": "+918726786451",
+    "lng": 88.3735175383133,
+    "country": "India",
+    "postal_code": "700009",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 278",
+    "city": "Kolkata",
+    "lat": 22.631352037146215,
+    "phone": "+916262015369",
+    "lng": 88.48402335169901,
+    "country": "India",
+    "postal_code": "700135",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 279",
+    "city": "Kolkata",
+    "lat": 22.62680970706459,
+    "phone": "+918271648065",
+    "lng": 88.48914355102647,
+    "country": "India",
+    "postal_code": "700135",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 280",
+    "city": "Kolkata",
+    "lat": 22.422154811418135,
+    "phone": "+918845748438",
+    "lng": 88.41101893287664,
+    "country": "India",
+    "postal_code": "700149",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 281",
+    "city": "Tollygunge",
+    "lat": 21.67937880217459,
+    "phone": "+917627581331",
+    "lng": 87.5629771819807,
+    "country": "India",
+    "postal_code": "700024",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 282",
+    "city": "Kolkata",
+    "lat": 24.18164984531556,
+    "phone": "+917919226769",
+    "lng": 87.7921277381618,
+    "country": "India",
+    "postal_code": "731224",
+    "state": "Birbhum"
+  },
+  {
+    "name": "Outlet 283",
+    "city": "Kolkata",
+    "lat": 22.586206529017733,
+    "phone": "+918625132859",
+    "lng": 88.30348460720326,
+    "country": "India",
+    "postal_code": "711104",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 284",
+    "city": "Kolkata",
+    "lat": 23.17613920041219,
+    "phone": "+918630195326",
+    "lng": 88.56607739939203,
+    "country": "India",
+    "postal_code": "741201",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 285",
+    "city": "Kolkata",
+    "lat": 22.56364479039512,
+    "phone": "+917539159408",
+    "lng": 88.15762420227415,
+    "country": "India",
+    "postal_code": "711322",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 286",
+    "city": "Kalighat",
+    "lat": 22.516886979988847,
+    "phone": "+919749214832",
+    "lng": 88.3468009646774,
+    "country": "India",
+    "postal_code": "700026",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 287",
+    "city": "Ultadanga",
+    "lat": 22.563576883022243,
+    "phone": "+918117850908",
+    "lng": 88.39306865865643,
+    "country": "India",
+    "postal_code": "700010",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 288",
+    "city": "Belgharia",
+    "lat": 22.66327673090479,
+    "phone": "+919905866594",
+    "lng": 88.37647178095133,
+    "country": "India",
+    "postal_code": "700056",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 289",
+    "city": "Entally",
+    "lat": 22.552482524760645,
+    "phone": "+918660775697",
+    "lng": 88.36402346252005,
+    "country": "India",
+    "postal_code": "700014",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 290",
+    "city": "Kolkata",
+    "lat": 22.72264976058187,
+    "phone": "+916899155432",
+    "lng": 88.3451660672704,
+    "country": "India",
+    "postal_code": "712248",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 291",
+    "city": "Berhampore",
+    "lat": 22.616206133817858,
+    "phone": "+919589715091",
+    "lng": 88.41202409799114,
+    "country": "India",
+    "postal_code": "700074",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 292",
+    "city": "Lake Gardens",
+    "lat": 22.499654083471754,
+    "phone": "+919689770558",
+    "lng": 88.32914439223136,
+    "country": "India",
+    "postal_code": "700034",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 293",
+    "city": "Raghunathganj",
+    "lat": 22.51316902567995,
+    "phone": "+917166726740",
+    "lng": 88.38139167449752,
+    "country": "India",
+    "postal_code": "700078",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 294",
+    "city": "Gariahat",
+    "lat": 22.503781289818978,
+    "phone": "+917217610890",
+    "lng": 88.37766712009552,
+    "country": "India",
+    "postal_code": "700031",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 295",
+    "city": "Kolkata",
+    "lat": 22.61322135949715,
+    "phone": "+916364890497",
+    "lng": 88.27159455366711,
+    "country": "India",
+    "postal_code": "711409",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 296",
+    "city": "Kolkata",
+    "lat": 22.601453603322906,
+    "phone": "+919056831227",
+    "lng": 88.34443013932605,
+    "country": "India",
+    "postal_code": "711106",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 297",
+    "city": "Kanchrapara",
+    "lat": 22.56933056010618,
+    "phone": "+919177979632",
+    "lng": 88.43100034272386,
+    "country": "India",
+    "postal_code": "700064",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 298",
+    "city": "Kolkata",
+    "lat": 23.259244098773568,
+    "phone": "+919566559419",
+    "lng": 88.43644778668187,
+    "country": "India",
+    "postal_code": "741404",
+    "state": "Nadia"
+  },
+  {
+    "name": "Outlet 299",
+    "city": "Murshidabad",
+    "lat": 22.49303488312145,
+    "phone": "+917822910810",
+    "lng": 88.3888984149337,
+    "country": "India",
+    "postal_code": "700075",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 300",
+    "city": "Murshidabad",
+    "lat": 22.493028968431357,
+    "phone": "+916818279167",
+    "lng": 88.37999093978895,
+    "country": "India",
+    "postal_code": "700075",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 301",
+    "city": "Kolkata",
+    "lat": 22.245961946421104,
+    "phone": "+916665699190",
+    "lng": 88.1845967899926,
+    "country": "India",
+    "postal_code": "743368",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 302",
+    "city": "Kolkata",
+    "lat": 22.569333670072165,
+    "phone": "+918960418853",
+    "lng": 88.43100117861144,
+    "country": "India",
+    "postal_code": "700091",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 303",
+    "city": "Beleghata",
+    "lat": 22.568344971370294,
+    "phone": "+917182260606",
+    "lng": 88.37052369531533,
+    "country": "India",
+    "postal_code": "700009",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 304",
+    "city": "Lake Town",
+    "lat": 22.566758203925453,
+    "phone": "+917133591083",
+    "lng": 88.37182563816269,
+    "country": "India",
+    "postal_code": "700054",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 305",
+    "city": "Chetla",
+    "lat": 22.481604913986136,
+    "phone": "+918575152612",
+    "lng": 88.31090842075763,
+    "country": "India",
+    "postal_code": "700008",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 306",
+    "city": "Baranagar",
+    "lat": 22.485634654648365,
+    "phone": "+919778458318",
+    "lng": 88.286651373904,
+    "country": "India",
+    "postal_code": "700061",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 307",
+    "city": "Kolkata",
+    "lat": 22.77428519864609,
+    "phone": "+917886956334",
+    "lng": 88.32752939477678,
+    "country": "India",
+    "postal_code": "712233",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 308",
+    "city": "Shyambazar",
+    "lat": 22.600655942494505,
+    "phone": "+918279795324",
+    "lng": 88.37048420133377,
+    "country": "India",
+    "postal_code": "700004",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 309",
+    "city": "Kolkata",
+    "lat": 22.829783204835365,
+    "phone": "+918914638256",
+    "lng": 88.38032956684312,
+    "country": "India",
+    "postal_code": "743127",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 310",
+    "city": "Kolkata",
+    "lat": 22.82484875769501,
+    "phone": "+917078739344",
+    "lng": 88.38250326729852,
+    "country": "India",
+    "postal_code": "743127",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 311",
+    "city": "Kolkata",
+    "lat": 22.513929448844852,
+    "phone": "+919646293285",
+    "lng": 88.3958856464526,
+    "country": "India",
+    "postal_code": "700107",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 312",
+    "city": "Kolkata",
+    "lat": 22.813443090338932,
+    "phone": "+916481115493",
+    "lng": 88.22947163476069,
+    "country": "India",
+    "postal_code": "712409",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 313",
+    "city": "Sinthee",
+    "lat": 22.630477566305718,
+    "phone": "+918800983456",
+    "lng": 88.37837834190547,
+    "country": "India",
+    "postal_code": "700050",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 314",
+    "city": "Chetla",
+    "lat": 22.48782543471255,
+    "phone": "+918969459753",
+    "lng": 88.33105738281986,
+    "country": "India",
+    "postal_code": "700008",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 315",
+    "city": "Kolkata",
+    "lat": 22.700904521287278,
+    "phone": "+919186079704",
+    "lng": 88.37805115490494,
+    "country": "India",
+    "postal_code": "700110",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 316",
+    "city": "Kolkata",
+    "lat": 22.697684125691577,
+    "phone": "+916241391622",
+    "lng": 88.3887874455085,
+    "country": "India",
+    "postal_code": "700110",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 317",
+    "city": "Kolkata",
+    "lat": 22.701792181693953,
+    "phone": "+917181697115",
+    "lng": 88.37495497618154,
+    "country": "India",
+    "postal_code": "700114",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 318",
+    "city": "Kolkata",
+    "lat": 22.44276541443627,
+    "phone": "+917152467981",
+    "lng": 88.42914252421383,
+    "country": "India",
+    "postal_code": "700150",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 319",
+    "city": "Kolkata",
+    "lat": 22.442643222838157,
+    "phone": "+919655653902",
+    "lng": 88.43257944056002,
+    "country": "India",
+    "postal_code": "700150",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 320",
+    "city": "Kolkata",
+    "lat": 22.44310112806435,
+    "phone": "+917818027260",
+    "lng": 88.42952494985397,
+    "country": "India",
+    "postal_code": "700150",
+    "state": "South 24 Parganas"
+  },
+  {
+    "name": "Outlet 321",
+    "city": "Sinthee",
+    "lat": 22.59594859623929,
+    "phone": "+919666026389",
+    "lng": 88.36520495945781,
+    "country": "India",
+    "postal_code": "700005",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 322",
+    "city": "Kolkata",
+    "lat": 22.75287036154011,
+    "phone": "+918505641761",
+    "lng": 88.3403821577611,
+    "country": "India",
+    "postal_code": "712201",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 323",
+    "city": "Kolkata",
+    "lat": 22.75007046161293,
+    "phone": "+919456150953",
+    "lng": 88.34682882923529,
+    "country": "India",
+    "postal_code": "712201",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 324",
+    "city": "Kolkata",
+    "lat": 22.571271549302473,
+    "phone": "+916826993081",
+    "lng": 88.41046468213709,
+    "country": "India",
+    "postal_code": "700091",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 325",
+    "city": "Kolkata",
+    "lat": 22.562059087261478,
+    "phone": "+916365317984",
+    "lng": 88.41540189578329,
+    "country": "India",
+    "postal_code": "700106",
+    "state": "KOLKATA"
+  },
+  {
+    "name": "Outlet 326",
+    "city": "Murshidabad",
+    "lat": 22.568209327085547,
+    "phone": "+918678259596",
+    "lng": 88.5107060441487,
+    "country": "India",
+    "postal_code": "700075",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 327",
+    "city": "Kolkata",
+    "lat": 22.563461768810743,
+    "phone": "+917676155686",
+    "lng": 88.51292917397038,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 328",
+    "city": "Kolkata",
+    "lat": 23.90326711742448,
+    "phone": "+916026677381",
+    "lng": 87.52787902112483,
+    "country": "India",
+    "postal_code": "731101",
+    "state": "Birbhum"
+  },
+  {
+    "name": "Outlet 329",
+    "city": "Kolkata",
+    "lat": 22.28865526090071,
+    "phone": "+919920539527",
+    "lng": 87.917196286851,
+    "country": "India",
+    "postal_code": "721636",
+    "state": "Purba Medinipur"
+  },
+  {
+    "name": "Outlet 330",
+    "city": "Boral",
+    "lat": 22.550743242922774,
+    "phone": "+917683470446",
+    "lng": 88.38212647033373,
+    "country": "India",
+    "postal_code": "700046",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 331",
+    "city": "Kolkata",
+    "lat": 22.879796517784733,
+    "phone": "+918998971707",
+    "lng": 88.0133495387408,
+    "country": "India",
+    "postal_code": "712410",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 332",
+    "city": "Kolkata",
+    "lat": 22.582054627554122,
+    "phone": "+917932491738",
+    "lng": 88.48616302779926,
+    "country": "India",
+    "postal_code": "700156",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 333",
+    "city": "Shyamnagar",
+    "lat": 22.46268817472733,
+    "phone": "+919808267072",
+    "lng": 88.30681389476672,
+    "country": "India",
+    "postal_code": "700063",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 334",
+    "city": "Kolkata",
+    "lat": 22.9245918,
+    "phone": "+917988387991",
+    "lng": 88.776455,
+    "country": "India",
+    "postal_code": "743287",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 335",
+    "city": "Kolkata",
+    "lat": 22.74252839441343,
+    "phone": "+919583779166",
+    "lng": 88.37297615244648,
+    "country": "India",
+    "postal_code": "700119",
+    "state": "North 24 Parganas"
+  },
+  {
+    "name": "Outlet 336",
+    "city": "Bagha Jatin",
+    "lat": 22.63047983611587,
+    "phone": "+919219860531",
+    "lng": 88.37837637933245,
+    "country": "India",
+    "postal_code": "700036",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 337",
+    "city": "Garia",
+    "lat": 22.492833892787647,
+    "phone": "+918216855492",
+    "lng": 88.34559993944293,
+    "country": "India",
+    "postal_code": "700033",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 338",
+    "city": "Garia",
+    "lat": 22.503484377513146,
+    "phone": "+917978059530",
+    "lng": 88.34537736083479,
+    "country": "India",
+    "postal_code": "700033",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 339",
+    "city": "Panchannagram",
+    "lat": 22.535705873698216,
+    "phone": "+918135663966",
+    "lng": 88.3806124608126,
+    "country": "India",
+    "postal_code": "700039",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 340",
+    "city": "Kolkata",
+    "lat": 22.983431914966957,
+    "phone": "+917717197962",
+    "lng": 88.39849544126744,
+    "country": "India",
+    "postal_code": "712503",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 341",
+    "city": "Lake Town",
+    "lat": 22.59195410150922,
+    "phone": "+916837494001",
+    "lng": 88.39264847913911,
+    "country": "India",
+    "postal_code": "700054",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 342",
+    "city": "Kolkata",
+    "lat": 22.468872233254622,
+    "phone": "+917016133395",
+    "lng": 88.0991950653191,
+    "country": "India",
+    "postal_code": "711316",
+    "state": "Howrah"
+  },
+  {
+    "name": "Outlet 343",
+    "city": "Kolkata",
+    "lat": 22.663010641225366,
+    "phone": "+919303580039",
+    "lng": 88.34937259325552,
+    "country": "India",
+    "postal_code": "712258",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 344",
+    "city": "Kolkata",
+    "lat": 22.665386411058794,
+    "phone": "+916169554495",
+    "lng": 88.34175105919091,
+    "country": "India",
+    "postal_code": "712258",
+    "state": "Hooghly"
+  },
+  {
+    "name": "Outlet 345",
+    "city": "Manicktala",
+    "lat": 22.585801585868293,
+    "phone": "+918011440206",
+    "lng": 88.367796091681,
+    "country": "India",
+    "postal_code": "700006",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 346",
+    "city": "Kolkata",
+    "lat": 22.577915206036426,
+    "phone": "+919513094299",
+    "lng": 88.43185685795315,
+    "country": "India",
+    "postal_code": "700091",
+    "state": "Kolkata"
+  },
+  {
+    "name": "Outlet 347",
+    "city": "Kolkata",
+    "lat": 22.569046913333974,
+    "phone": "+917167780685",
+    "lng": 88.43098392582233,
+    "country": "India",
+    "postal_code": "700091",
+    "state": "North 24 Parganas"
+  }
+]
