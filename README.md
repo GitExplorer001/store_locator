@@ -25,10 +25,10 @@ Insert this inside your HTML:
 `<div id="store-locator"></div>`
 
 ### 2️⃣ Include Required Files
-Inside your `<head>` tag or before the closing `</body>`, include:
+Inside your `<head>` tag, include:
 
-<link rel="stylesheet" href="locator-plugin/store-locator.css">
-<script src="locator-plugin/store-locator.js"></script>
+'<link rel="stylesheet" href="locator-plugin/store-locator.css">'
+'<script src="locator-plugin/store-locator.js"></script>'
 
 ### 3️⃣ Prepare Your Data
 You can format your data using the provided `store_data.xlsx` and follow these steps:
