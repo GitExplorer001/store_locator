@@ -101,6 +101,6 @@ This plugin is licensed under the Custom Open Source License. You are free to us
 **Ownership and authorship belong to:**
 
 - GitHub: <a href='https://github.com/GitExplorer001'>@GitExplorer001</a>
-- LinkedIn: Anish Ghosh (https://www.linkedin.com/in/anish-ghosh-ag743/)
+- LinkedIn: <a href='https://www.linkedin.com/in/anish-ghosh-ag743/'>Anish Ghosh</a>
 
 🌟 Give this repo a ⭐ if you found it helpful!
