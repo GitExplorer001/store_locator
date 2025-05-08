@@ -45,7 +45,7 @@ Provide either:
 - OR a **complete address string** in `address`.
 
 For custom maps, you must provide `lat` and `lng`.
-For the default map, provide a valid Google Maps embed link.
+For the default map, provide a valid Google Maps embed link in `map`.
 
 ### 4️⃣ Initialize the Plugin
 At the bottom of your page:
