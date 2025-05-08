@@ -92,7 +92,7 @@ locator-plugin/
 
 ## 📜 License
 
-This plugin is licensed under the Custom Open Source License. You are free to use or integrate it commercially, provided:
+This plugin is licensed under the Custom MIT-Based License. You are free to use or integrate it commercially, provided:
 
 - You do not sell it or derivative works.
 - You do not distribute modified or unmodified versions without this license.
