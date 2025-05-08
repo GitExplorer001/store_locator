@@ -72,7 +72,7 @@ The sample data included simulates store locations across West Bengal. All phone
 ---
 
 ## 📁 Project Structure
-
+```html
 locator-plugin/
 │
 ├── data/
@@ -87,7 +87,7 @@ locator-plugin/
 ├── store-locator.js
 ├── json-formatter.html
 └── LICENSE
-
+```
 ---
 
 ## 📜 License
