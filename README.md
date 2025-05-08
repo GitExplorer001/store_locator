@@ -9,7 +9,9 @@ An open-source, lightweight, and embeddable store locator plugin built using **H
 ## ✨ Features
 
 - Responsive design  
-- Integrated Google Maps with custom or embedded options  
+- Integrated Google Maps with custom or embedded options
+- Takes User GEO location as input and shows nearest stores
+- If GEO location is rejected uses IP instead to get approximate location
 - Search by **area**, **city**, or **PIN code**  
 - Tap-to-call support 
 - Lightweight: No external libraries except Google Maps API  
