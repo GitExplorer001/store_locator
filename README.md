@@ -49,14 +49,16 @@ For the default map, provide a valid Google Maps embed link in `map`.
 
 ### 4️⃣ Initialize the Plugin
 At the bottom of your page:
-`<script>
+```html
+<script>
     Storelocator.init({
         container: "#store-locator",
         dataUrl: "dummy-stores.json",
         "custom-map": true,
         "gmap-api": "YOUR_GOOGLE_CLOUD_API"
     });
-</script>`
+</script>
+```
 
 If you do not initialise `dataUrl:`, it will atomatically be set as `stores.json`.
 If you want to use the default embedded map, you do not need to call `custom-map` or provide a `gmap-api` key.
