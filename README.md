@@ -42,14 +42,12 @@ You can format your data using the provided `store_data.xlsx` and follow these s
 3. Use `json-formatter.html` to convert CSV → JSON.
 
 📌 **Required fields**:
-- `name`, `city`, `phone`, `timings`
+- `name`, `city`, `phone`, `timings`, `map`
+Provide the iframe link of the location in the `map` field, the script will automatically extract lattitude and longtitude.
 
 Provide either:
 - `state`, `postal_code`, `country`  
 - OR a **complete address string** in `address`.
-
-For custom maps, you must provide `lat` and `lng`.
-For the default map, provide a valid Google Maps embed link in `map`.
 
 ### 4️⃣ Initialize the Plugin
 At the bottom of your page:
