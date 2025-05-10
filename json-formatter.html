@@ -14,10 +14,12 @@
 
   <h2>CSV to JSON Converter (Store Locator Format)</h2>
   <p>Paste your CSV data below or upload a CSV file.<br>
-  Expected fields: <code>name, city, state, postal_code, country, address, phone, lat, lng, timings, map</code></p>
+    Expected fields: <code>name, city, state, postal_code, country, address, phone, map, timings</code><br>
+    <small><b>Note:</b> The <code>map</code> field should contain an iframe. The converter will extract the <code>src</code> and fetch lat/lng from it.</small>
+  </p>
 
   <input type="file" id="csvFile" accept=".csv"><br>
-  <textarea id="csvInput" placeholder="name,city,state,postal_code,country,address,phone,lat,lng,timings,map"></textarea>
+  <textarea id="csvInput" placeholder="name,city,state,postal_code,country,address,phone,map,timings"></textarea>
   <button id="convertBtn">Convert to JSON</button>
   <button id="downloadBtn" style="display:none;">Download JSON</button>
 
@@ -26,39 +28,86 @@
 
   <script>
     let generatedJSON = "";
-
+  
     document.getElementById("csvFile").addEventListener("change", function(e) {
       const file = e.target.files[0];
       if (!file) return;
       const reader = new FileReader();
       reader.onload = function(event) {
+        console.log("File read successfully.");
         document.getElementById("csvInput").value = event.target.result;
       };
       reader.readAsText(file);
     });
-
+  
     document.getElementById("convertBtn").addEventListener("click", function() {
       const csv = document.getElementById("csvInput").value.trim();
       if (!csv) return alert("Please enter CSV data");
-
+  
       const lines = csv.split("\n").filter(line => line.trim() !== "");
       const headers = lines[0].split(",").map(h => h.trim());
-
-      const json = lines.slice(1).map(line => {
+      console.log("Headers:", headers);
+  
+      const json = lines.slice(1).map((line, index) => {
         const values = line.split(",").map(v => v.trim());
+        console.log(`Parsing line ${index + 2}:`, values);
+  
+        // Skip completely empty lines
+        if (values.every(value => value === "")) {
+          return null; // Skip empty lines
+        }
+  
         const obj = {};
         headers.forEach((key, i) => {
-          const value = values[i] || "";
-          obj[key] = (key === "lat" || key === "lng") ? parseFloat(value) || "" : value;
+          let value = values[i] || "";
+  
+          // Handle doubled quotes (Excel's way of escaping quotes in CSV)
+          value = value.replace(/""/g, '"');  // Replace doubled quotes with a single quote
+  
+          if (key === "map") {
+            // Extract the src URL from iframe
+            const srcMatch = value.match(/src="([^"]+)"/);
+            const mapURL = srcMatch ? srcMatch[1] : "";
+  
+            if (!mapURL) {
+              obj["map"] = null;  // Set map to null if iframe src is empty
+              obj["lat"] = null;   // Set lat to null if map is not found
+              obj["lng"] = null;   // Set lng to null if map is not found
+            } else {
+              obj["map"] = mapURL;
+              console.log(`Extracted map src: ${mapURL}`);
+  
+              // Extract lat and lng from mapURL
+              const latMatch = mapURL.match(/!3d([0-9.\-]+)/);
+              const lngMatch = mapURL.match(/!2d([0-9.\-]+)/);
+  
+              obj["lat"] = latMatch ? parseFloat(latMatch[1]) : null;
+              obj["lng"] = lngMatch ? parseFloat(lngMatch[1]) : null;
+  
+              if (!latMatch || !lngMatch) {
+                console.warn(`⚠️ Line ${index + 2}: lat/lng could not be extracted from map src`);
+              } else {
+                console.log(`Extracted lat: ${obj["lat"]}, lng: ${obj["lng"]}`);
+              }
+            }
+          } else {
+            obj[key] = value || null;  // Set fields to null if empty
+          }
         });
-        return obj;
-      });
-
+  
+        // Ensure only non-empty objects are added to the JSON array
+        if (Object.keys(obj).some(key => obj[key] !== null)) {
+          return obj; // Only return objects with non-null values
+        } else {
+          return null; // Skip empty objects
+        }
+      }).filter(item => item !== null); // Remove null items (empty objects)
+  
       generatedJSON = JSON.stringify(json, null, 2);
       document.getElementById("jsonOutput").textContent = generatedJSON;
       document.getElementById("downloadBtn").style.display = "inline-block";
     });
-
+  
     document.getElementById("downloadBtn").addEventListener("click", function() {
       const blob = new Blob([generatedJSON], { type: "application/json" });
       const url = URL.createObjectURL(blob);
@@ -69,8 +118,9 @@
       link.click();
       document.body.removeChild(link);
       URL.revokeObjectURL(url);
+      console.log("JSON file downloaded.");
     });
-  </script>
+  </script>  
 
 </body>
 </html>
