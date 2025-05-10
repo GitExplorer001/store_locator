@@ -43,7 +43,7 @@ You can format your data using the provided `store_data.xlsx` and follow these s
 
 📌 **Required fields**:
 - `name`, `city`, `phone`, `timings`, `map`
-- Provide the iframe link of the location in the `map` field, the script will automatically extract lattitude and longtitude.
+- Provide `<iframe>` link of the location in the `map` field, the script will automatically extract lattitude and longtitude.
 
 Provide either:
 - `state`, `postal_code`, `country`  
