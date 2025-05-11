@@ -1,4 +1,4 @@
-# Store Locator Plugin
+# Store Locator Plugin <a href="locator-plugin.zip" download="custom-name.zip">Download ZIP</a>
 
 An open-source, lightweight, and embeddable store locator plugin built using **HTML, CSS**, and **vanilla JavaScript**. Ideal for businesses wanting to showcase their physical locations on an interactive map.
 
