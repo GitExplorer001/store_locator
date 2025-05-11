@@ -9,15 +9,15 @@
     window.Storelocator = {
         init: function (config) {
             function getUserLocation(callback) { if (navigator.geolocation) { navigator.geolocation.getCurrentPosition((position) => { callback(position.coords.latitude, position.coords.longitude) }, () => { getLocationFromIP(callback) }) } else { getLocationFromIP(callback) } }
-            function getLocationFromIP(callback) { fetch('https://ipapi.co/json/').then(response => { return response.json() }).then(data => { if (data.latitude && data.longitude) { callback(data.latitude, data.longitude) } else { callback(null, null) } }).catch(err => { callback(null, null) }) }
+            function getLocationFromIP(callback) { fetch("https://ipapi.co/json/").then((response) => { return response.json() }).then((data) => { if (data.latitude && data.longitude) { callback(data.latitude, data.longitude) } else { callback(null, null) } }).catch((err) => { callback(null, null) }) }
             getUserLocation((lat, lng) => { Storelocator.run(lat, lng, config) })
         }, run: function (lat, lng, config) {
-            const container = document.querySelector(config.container); if (!container) return; const dataUrl = config.dataUrl ? "locator-plugin/data/" + config.dataUrl : "locator-plugin/data/stores.json"; const userLat = lat; const userLng = lng; const preloader = document.createElement('div'); preloader.id = 'preloader'; preloader.innerHTML = `
+            const container = document.querySelector(config.container); if (!container) return; const dataUrl = config.dataUrl ? "locator-plugin/data/" + config.dataUrl : "locator-plugin/data/stores.json"; const userLat = lat; const userLng = lng; const preloader = document.createElement("div"); preloader.id = "preloader"; preloader.innerHTML = `
                 <div class="preloader-inner">
                     <div class="spinner"></div>
                 </div>
-            `; container.appendChild(preloader); preloader.style.display = 'flex'; fetch(dataUrl).then(res => res.json()).then(data => {
-                preloader.style.display = 'none'; container.innerHTML = `
+            `; container.appendChild(preloader); preloader.style.display = "flex"; fetch(dataUrl).then((res) => res.json()).then((data) => {
+                preloader.style.display = "none"; container.innerHTML = `
                         <div class="sl-container">
                             <div class="sl-search-container">
                                 <div class="sl-search-box">
@@ -89,53 +89,49 @@
                     `; function getGoogleMapsLink(lat, lng) { return `https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3682.6696056270466!2d${lng}!3d${lat}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDM3JzQzLjciTiA4OMKwMjMnMzIuMCJF!5e0!3m2!1sen!2sin!4v1746640498139!5m2!1sen!2sin` }
                 function calculateDistance(lat1, lng1, lat2, lng2) { const R = 6371; const dLat = (lat2 - lat1) * (Math.PI / 180); const dLng = (lng2 - lng1) * (Math.PI / 180); const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) * Math.sin(dLng / 2) * Math.sin(dLng / 2); const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)); const distance = R * c; return distance }
                 function renderStores(filteredStores) {
-                    const storeItemsContainer = container.querySelector("#storeItems"); storeItemsContainer.innerHTML = ""; filteredStores.sort((a, b) => { const distA = calculateDistance(userLat, userLng, a.lat, a.lng); const distB = calculateDistance(userLat, userLng, b.lat, b.lng); return distA - distB }); filteredStores.forEach(store => {
+                    const storeItemsContainer = container.querySelector("#storeItems"); storeItemsContainer.innerHTML = ""; filteredStores.sort((a, b) => { const distA = calculateDistance(userLat, userLng, a.lat, a.lng); const distB = calculateDistance(userLat, userLng, b.lat, b.lng); return distA - distB }); filteredStores.forEach((store) => {
                         store.map = store.map || getGoogleMapsLink(store.lat, store.lng); store.address = store.address || `${store.city}, ${store.state} - ${store.postal_code}, ${store.country}`; const distance = calculateDistance(userLat, userLng, store.lat, store.lng); const storeItem = `
                                 <div class="sl-store-card sl-store-item" data-map="${store.map}" data-lat="${store.lat}" data-lng="${store.lng}">
                                     <div class="sl-store-name">${store.name}</div>
                                     <div class="sl-store-address">${store.address}</div>
                                     <div class="sl-store-phone">${store.phone}</div>
                                         <span class="sl-store-distance">${distance.toFixed(2)} Km</span>
-                                        ${store.timings ? store.timings : '10.00 AM - 8.00 PM'}
+                                        ${store.timings ? store.timings : "10.00 AM - 8.00 PM"}
                                     </div>
                                 </div>
                             `; storeItemsContainer.innerHTML += storeItem
-                    }); const mapContainer = container.querySelector('.sl-map-container'); if (config['custom-map'] && config['gmap-api']) { mapContainer.innerHTML = ""; const mapDiv = document.createElement('div'); mapDiv.id = 'map'; mapDiv.classList.add('sl-map'); mapDiv.style.height = '600px'; mapContainer.appendChild(mapDiv) }
+                    }); const mapContainer = container.querySelector(".sl-map-container"); if (config["custom-map"] && config["gmap-api"]) { mapContainer.innerHTML = ""; const mapDiv = document.createElement("div"); mapDiv.id = "map"; mapDiv.classList.add("sl-map"); mapDiv.style.height = "600px"; mapContainer.appendChild(mapDiv) }
                     const storeItems = container.querySelectorAll(".sl-store-item"); if (storeItems.length > 0) {
                         storeItems[0].classList.add("active"); const firstMap = storeItems[0].getAttribute("data-map"); if (firstMap) { updateMap(firstMap) }
                         selectedStore = storeItems[0]
                     }
-                    storeItems.forEach(item => { item.addEventListener("click", function () { const newMapSrc = this.getAttribute("data-map"); updateMap(newMapSrc); storeItems.forEach(el => el.classList.remove("active")); this.classList.add("active"); selectedStore = this }) }); const callBtn = document.getElementById('call-btn'); const shareBtn = document.getElementById('share-btn'); const dirBtn = document.getElementById('direction-btn'); callBtn.addEventListener("click", () => {
-                        if (!selectedStore) return; const phoneEl = selectedStore.querySelector('.sl-store-phone'); if (phoneEl) {
-                            const phoneNumber = phoneEl.textContent
-                            const number = phoneNumber.slice(-10); window.location.href = `tel:+91${number}`
-                        }
-                    }); shareBtn.addEventListener("click", () => {
+                    storeItems.forEach((item) => { item.addEventListener("click", function () { const newMapSrc = this.getAttribute("data-map"); updateMap(newMapSrc); storeItems.forEach((el) => el.classList.remove("active")); this.classList.add("active"); selectedStore = this }) }); const callBtn = document.getElementById("call-btn"); const shareBtn = document.getElementById("share-btn"); const dirBtn = document.getElementById("direction-btn"); callBtn.addEventListener("click", () => { if (!selectedStore) return; const phoneEl = selectedStore.querySelector(".sl-store-phone"); if (phoneEl) { const phoneNumber = phoneEl.textContent; const number = phoneNumber.slice(-10); window.location.href = `tel:+91${number}` } }); shareBtn.addEventListener("click", () => {
                         if (!selectedStore) return; const map = selectedStore.getAttribute("data-map"); const lat = selectedStore.getAttribute("data-lat"); const lng = selectedStore.getAttribute("data-lng"); let link = ""; if (lat && lng) { link = `https://www.google.com/maps?q=${lat},${lng}` } else if (map) {
                             const match = map.match(/!3d([\d.]+)!2d([\d.]+)/); if (match) { lat = match[1]; lng = match[2] }
                             link = `https://www.google.com/maps?q=${lat},${lng}`
                         }
-                        if (link) { if (navigator.share) { navigator.share({ title: "Store Location", text: "Check out this store location:", url: link }).catch(err => console.log("Share failed:", err)) } else { prompt("Copy this location URL:", link) } }
+                        if (link) { if (navigator.share) { navigator.share({ title: "Store Location", text: "Check out this store location:", url: link }).catch((err) => console.log("Share failed:", err)) } else { prompt("Copy this location URL:", link) } }
                     }); dirBtn.addEventListener("click", () => {
                         if (!selectedStore) return; let lat = selectedStore.getAttribute("data-lat"); let lng = selectedStore.getAttribute("data-lng"); const map = selectedStore.getAttribute("data-map"); if ((!lat || !lng) && map) { const match = map.match(/!3d([\d.]+)!2d([\d.]+)/); if (match) { lat = match[1]; lng = match[2] } }
                         if (lat && lng) { window.open(`https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`, "_blank") }
                     }); container.querySelector("#storeCount").textContent = filteredStores.length + " stores"
                 }
-                function updateMap(mapSrc) { const mapIframe = container.querySelector(".sl-map-iframe"); const mapDiv = container.querySelector('#map'); if (config['custom-map'] && config['gmap-api']) { loadCustomMap(config['gmap-api'], mapSrc) } else { if (mapIframe) { mapIframe.src = mapSrc } } }
+                function updateMap(mapSrc) { const mapIframe = container.querySelector(".sl-map-iframe"); const mapDiv = container.querySelector("#map"); if (config["custom-map"] && config["gmap-api"]) { loadCustomMap(config["gmap-api"], mapSrc) } else { if (mapIframe) { mapIframe.src = mapSrc } } }
                 function reloadGoogleMapsScript(apiKey) {
                     const existingScript = document.querySelector('script[src*="maps.googleapis.com/maps/api/js"]'); if (existingScript) { existingScript.remove() }
-                    const script = document.createElement('script'); script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initCustomMap`; script.async = !0; script.defer = !0; document.body.appendChild(script)
+                    const script = document.createElement("script"); script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initCustomMap`; script.async = !0; script.defer = !0; document.body.appendChild(script)
                 }
                 function loadCustomMap(apiKey, mapSrc) {
                     reloadGoogleMapsScript(apiKey); window.initCustomMap = function () {
-                        const activeItem = document.querySelector(".sl-store-item.active"); let initialLatLng; if (activeItem) { const activeMapId = activeItem.getAttribute("data-map"); const matchingStore = data.find(store => store.map === activeMapId); if (matchingStore) { initialLatLng = { lat: matchingStore.lat, lng: matchingStore.lng } } }
+                        const activeItem = document.querySelector(".sl-store-item.active"); let initialLatLng; if (activeItem) { const activeMapId = activeItem.getAttribute("data-map"); const matchingStore = data.find((store) => store.map === activeMapId); if (matchingStore) { initialLatLng = { lat: matchingStore.lat, lng: matchingStore.lng } } }
                         if (!initialLatLng) { initialLatLng = { lat: 22.563398361206055, lng: 88.35131072998047 } }
-                        const map = new google.maps.Map(document.getElementById('map'), { center: initialLatLng, zoom: 15, }); data.forEach(store => { const storeItem = document.querySelector(`.sl-store-item[data-map="${store.map}"]`); const icon = storeItem && storeItem.classList.contains('active') ? 'locator-plugin/icons/highlighted-icon.png' : 'locator-plugin/icons/default-icon.png'; const marker = new google.maps.Marker({ position: new google.maps.LatLng(store.lat, store.lng), map: map, title: store.name, icon: icon, }); marker.addListener("click", function () { storeItem.classList.toggle('active'); marker.setIcon(storeItem.classList.contains('active') ? 'locator-plugin/icons/highlighted-icon.png' : 'locator-plugin/icons/default-icon.png'); map.panTo(marker.getPosition()) }) })
+                        const map = new google.maps.Map(document.getElementById("map"), { center: initialLatLng, zoom: 15 }); const markers = []; function resetMarkersToDefault() { markers.forEach((marker) => { marker.setIcon("locator-plugin/icons/default-icon.png") }) }
+                        data.forEach((store) => { const storeItem = document.querySelector(`.sl-store-item[data-map="${store.map}"]`); const icon = storeItem && storeItem.classList.contains("active") ? "locator-plugin/icons/highlighted-icon.png" : "locator-plugin/icons/default-icon.png"; const marker = new google.maps.Marker({ position: new google.maps.LatLng(store.lat, store.lng), map: map, title: store.name, icon: icon }); markers.push(marker); marker.addListener("click", function () { document.querySelectorAll(".sl-store-item.active").forEach((item) => { item.classList.remove("active") }); resetMarkersToDefault(); storeItem.classList.toggle("active"); marker.setIcon(storeItem.classList.contains("active") ? "locator-plugin/icons/highlighted-icon.png" : "locator-plugin/icons/default-icon.png"); map.panTo(marker.getPosition()) }) })
                     }
                 }
-                const searchInput = container.querySelector("#searchInput"); const searchButton = container.querySelector("#searchButton"); function performSearch() { const query = searchInput.value.toLowerCase(); const filteredStores = data.filter(store => (store.city && store.city.toLowerCase().includes(query)) || (store.pincode && store.pincode.toString().includes(query)) || (store.address && store.address.toLowerCase().includes(query))); renderStores(filteredStores) }
+                const searchInput = container.querySelector("#searchInput"); const searchButton = container.querySelector("#searchButton"); function performSearch() { const query = searchInput.value.toLowerCase(); const filteredStores = data.filter((store) => (store.city && store.city.toLowerCase().includes(query)) || (store.pincode && store.pincode.toString().includes(query)) || (store.address && store.address.toLowerCase().includes(query))); renderStores(filteredStores) }
                 searchButton.addEventListener("click", performSearch); searchInput.addEventListener("keyup", function (event) { if (event.key === "Enter") { performSearch() } }); renderStores(data)
-            }).catch(error => console.error('Error fetching store data:', error))
-        }
+            }).catch((error) => console.error("Error fetching store data:", error))
+        },
     }
 })()
